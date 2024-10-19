@@ -1,4 +1,4 @@
-# Zomato-Data-Analys
+# Zomato-Data-Analysis
 
 This project analyzes a dataset from Zomato to answer specific business-related questions. Using Python in Jupyter Notebook, I applied several data visualization techniques to uncover insights such as the most popular restaurant types, customer ratings, and voting patterns. Key tasks include:
 
